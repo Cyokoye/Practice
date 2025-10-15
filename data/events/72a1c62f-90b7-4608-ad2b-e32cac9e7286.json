@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "2e53d5f7-7304-428d-878a-06645efcccf1": {
+      "label": "AVFile Label (might be the same as event label)",
+      "is_offline": false,
+      "file_type": "Event Item Type (Audio or Video)",
+      "file_url": "AV File URL",
+      "duration": 3480
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Event Label",
+  "created_at": "2025-10-15T20:37:16.352Z",
+  "created_by": "Cyokoye",
+  "updated_at": "2025-10-15T20:37:16.352Z",
+  "updated_by": "Cyokoye"
+}
