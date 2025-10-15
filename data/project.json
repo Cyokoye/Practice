@@ -24,11 +24,33 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Tag Group",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Transcript",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tags",
+          "category": "Tag Group"
+        },
+        {
+          "tag": "French audio",
+          "category": "Transcript"
+        },
+        {
+          "tag": "English subtitles",
+          "category": "Transcript"
+        }
+      ]
     },
     "created_at": "2025-10-15T20:34:48.452Z",
-    "updated_at": "2025-10-15T20:37:16.620Z",
+    "updated_at": "2025-10-15T20:38:14.913Z",
     "generate_pages_site": true
   },
   "annotations": {},
